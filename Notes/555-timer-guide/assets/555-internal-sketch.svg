@@ -1,170 +1,180 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1160" viewBox="0 0 1500 1160" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1ZjAxMWVmNy0xMWQwLTRlMWQtOGM1OC0zZmJmNTUwZjE3ODkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJlCbkozrOjIuDXhAT90qtYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozOWI3NjI5YS1hM2ViLTQ0N2YtOTY4ZS0wNDcwZDJlMGU0NzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo/Na4JOOLFGCWPRP/sC8V1wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggItEmasz19GZnreoNP2xXy360FQe4n12LY3Tbtl/iwHikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHIGhWUIouE6XZzyLhMDzV0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBbHQDxRK8yeST8vzVItbCCVx1Xp7/LSUd7ADPD0H//02RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjCZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVmMDExZWY3LTExZDAtNGUxZC04YzU4LTNmYmY1NTBmMTc4OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYyOTdkYWQ4LTAxODItNDk4OS1iNTVlLTYzMmRiMzdiOTdmOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAi0SZqzPX0Zmet6g0/bFfLfrQVB7ifXYtjdNu2X+LAeKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgggZ+v8sIRyP0+427994lOlQCBT/8TLpHvhPiaokGSp02iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg1WkqpdFO63R4uglpv2RYKqWZgHZrjymrtgY9Ovgzzl90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQM3u1FHNk9GFxLwNR6WwmooQBFRSqTz7+ok8rGQ6g5wohIVJoTJbx5dUM8d30ibcmQIqcsmbGA7tGNZb++JzVGE=</c2pa:manifest></metadata>
   <title id="title">Simplified internal block diagram of a 555 timer IC</title>
-  <desc id="desc">White-background educational diagram of the 555 timer's resistor divider, two comparators, SR latch, output driver, discharge transistor, and eight external pins. Numbered arrows connect internal blocks to plain-language notes.</desc>
+  <desc id="desc">White-background educational diagram of the 555 timer: a three-resistor divider, threshold and trigger comparators, an SR latch, an inverting output driver, an NPN discharge transistor, and the eight external pins. Numbered badges on each block match the plain-language notes below the chip.</desc>
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
-      <path d="M0,0 L8,3 L0,6 Z" fill="#2563eb"/>
-    </marker>
     <style>
       .bg{fill:#fff}
       .title{font:700 30px Arial,sans-serif;fill:#172033}
       .subtitle{font:16px Arial,sans-serif;fill:#536174}
       .chip{fill:#f8fafc;stroke:#334155;stroke-width:3}
-      .block{fill:#fff;stroke:#475569;stroke-width:2.4}
+      .block{fill:#fff;stroke:#475569;stroke-width:2.4;stroke-linejoin:round}
       .pin{stroke:#334155;stroke-width:3;fill:none}
-      .wire{stroke:#64748b;stroke-width:2.4;fill:none}
-      .signal{stroke:#2563eb;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .wire{stroke:#64748b;stroke-width:2.4;fill:none;stroke-linejoin:round}
+      .dot{fill:#334155}
       .comp{font:700 17px Arial,sans-serif;fill:#172033;text-anchor:middle}
       .small{font:14px Arial,sans-serif;fill:#475569;text-anchor:middle}
+      .ref{font:700 13px Arial,sans-serif;fill:#1d4ed8}
+      .sym{font:700 16px Arial,sans-serif;fill:#475569;text-anchor:middle}
       .pintext{font:700 15px Arial,sans-serif;fill:#172033}
       .note{fill:#eff6ff;stroke:#93c5fd;stroke-width:1.5}
       .notehead{font:700 17px Arial,sans-serif;fill:#1d4ed8}
       .notetext{font:15px Arial,sans-serif;fill:#243247}
       .num{fill:#2563eb;stroke:#fff;stroke-width:2}
-      .numtext{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:middle}
+      .numtext{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}
       .foot{font:13px Arial,sans-serif;fill:#64748b}
     </style>
   </defs>
-  <rect class="bg" width="1500" height="1050"/>
+  <rect class="bg" width="1500" height="1160"/>
   <text x="60" y="55" class="title">Inside the 555 timer</text>
   <text x="60" y="84" class="subtitle">Simplified functional sketch • standard 8-pin package • not a transistor-level schematic</text>
 
-  <!-- Main IC body -->
-  <rect x="370" y="125" width="600" height="770" rx="18" class="chip"/>
-  <text x="670" y="160" class="comp" style="font-size:22px">555 TIMER IC</text>
+  <!-- Chip body -->
+  <rect x="300" y="170" width="900" height="560" rx="18" class="chip"/>
+  <text x="620" y="205" class="comp" style="font-size:22px">555 TIMER IC</text>
 
-  <!-- Pins left -->
-  <path class="pin" d="M285 220 H370 M285 320 H370 M285 420 H370 M285 520 H370"/>
-  <text x="270" y="214" class="pintext" text-anchor="end">8 · VCC</text>
-  <text x="270" y="314" class="pintext" text-anchor="end">6 · THRESHOLD</text>
-  <text x="270" y="414" class="pintext" text-anchor="end">2 · TRIGGER</text>
-  <text x="270" y="514" class="pintext" text-anchor="end">5 · CONTROL</text>
-  <!-- Pins right -->
-  <path class="pin" d="M970 245 H1055 M970 405 H1055 M970 565 H1055 M970 725 H1055"/>
-  <text x="1070" y="239" class="pintext">4 · RESET</text>
-  <text x="1070" y="399" class="pintext">3 · OUTPUT</text>
-  <text x="1070" y="559" class="pintext">7 · DISCHARGE</text>
-  <text x="1070" y="719" class="pintext">1 · GND</text>
+  <!-- External pins -->
+  <path class="pin" d="M380 140 V170 M500 140 V170 M810 140 V170
+                       M230 315 H300
+                       M1200 330 H1270 M1200 540 H1270
+                       M380 730 V770 M500 730 V770"/>
+  <text x="380" y="128" class="pintext" text-anchor="middle">8 · VCC</text>
+  <text x="500" y="128" class="pintext" text-anchor="middle">6 · THRESHOLD</text>
+  <text x="810" y="128" class="pintext" text-anchor="middle">4 · RESET</text>
+  <text x="220" y="321" class="pintext" text-anchor="end">5 · CONTROL</text>
+  <text x="1282" y="336" class="pintext">3 · OUTPUT</text>
+  <text x="1282" y="546" class="pintext">7 · DISCHARGE</text>
+  <text x="380" y="794" class="pintext" text-anchor="middle">1 · GND</text>
+  <text x="500" y="794" class="pintext" text-anchor="middle">2 · TRIGGER</text>
 
-  <!-- Divider -->
-  <rect x="430" y="185" width="190" height="260" rx="10" class="block"/>
-  <text x="525" y="213" class="comp">Resistor divider</text>
-  <text x="525" y="235" class="small">3 equal resistors</text>
-  <path class="wire" d="M525 255 V275 M500 275 H550 M500 275 V300 M550 275 V300 M500 300 H550"/>
-  <rect x="488" y="300" width="74" height="34" rx="4" class="block"/>
-  <text x="525" y="322" class="small">R</text>
-  <path class="wire" d="M525 334 V350"/>
-  <circle cx="525" cy="350" r="5" fill="#2563eb"/>
-  <path class="wire" d="M500 365 H550 M500 365 V390 M550 365 V390 M500 390 H550"/>
-  <rect x="488" y="390" width="74" height="34" rx="4" class="block"/>
-  <text x="525" y="412" class="small">R</text>
-  <text x="525" y="440" class="small">Creates reference levels</text>
-  <path class="wire" d="M370 220 H410 V255 H430"/>
-  <path class="wire" d="M525 255 V245"/>
-  <path class="wire" d="M525 424 V435 H410 V720 H370"/>
-  <text x="420" y="705" class="small" transform="rotate(-90 420 705)">to ground reference</text>
+  <!-- Resistor divider: VCC - R - (2/3 VCC) - R - (1/3 VCC) - R - GND -->
+  <path class="wire" d="M380 170 V215 M380 285 V345 M380 415 V475 M380 545 V730"/>
+  <rect x="368" y="215" width="24" height="70" rx="3" class="block"/>
+  <rect x="368" y="345" width="24" height="70" rx="3" class="block"/>
+  <rect x="368" y="475" width="24" height="70" rx="3" class="block"/>
+  <text x="380" y="255" class="small" style="font-size:13px;font-weight:700">R</text>
+  <text x="380" y="385" class="small" style="font-size:13px;font-weight:700">R</text>
+  <text x="380" y="515" class="small" style="font-size:13px;font-weight:700">R</text>
+  <text x="408" y="372" class="comp" style="text-anchor:start">Resistor divider</text>
+  <text x="408" y="392" class="small" style="text-anchor:start">3 equal resistors</text>
 
-  <!-- Comparators -->
-  <path class="block" d="M680 250 L680 320 L750 285 Z"/>
-  <text x="704" y="282" class="small">+</text>
-  <text x="704" y="305" class="small">−</text>
-  <text x="715" y="340" class="comp">Threshold</text>
-  <text x="715" y="359" class="small">comparator</text>
-  <path class="wire" d="M620 285 H680"/>
-  <path class="wire" d="M620 320 H650 V305 H680"/>
-  <path class="wire" d="M750 285 H790 V365 H810"/>
-  <path class="wire" d="M370 320 H395 V285 H430"/>
-  <path class="wire" d="M370 520 H400 V350 H430"/>
-  <path class="wire" d="M525 350 H650 V320"/>
-  <text x="615" y="270" class="small">2/3 VCC</text>
+  <!-- Tap A (2/3 VCC) shared with CONTROL pin; tap B (1/3 VCC) -->
+  <path class="wire" d="M300 315 H560"/>
+  <circle cx="380" cy="315" r="5" class="dot"/>
+  <text x="402" y="307" class="ref">2/3 VCC</text>
+  <path class="wire" d="M380 445 H560"/>
+  <circle cx="380" cy="445" r="5" class="dot"/>
+  <text x="402" y="437" class="ref">1/3 VCC</text>
 
-  <path class="block" d="M680 405 L680 475 L750 440 Z"/>
-  <text x="704" y="437" class="small">+</text>
-  <text x="704" y="460" class="small">−</text>
-  <text x="715" y="495" class="comp">Trigger</text>
-  <text x="715" y="514" class="small">comparator</text>
-  <path class="wire" d="M620 430 H680"/>
-  <path class="wire" d="M620 465 H650 V460 H680"/>
-  <path class="wire" d="M750 440 H790 V455 H810"/>
-  <path class="wire" d="M370 420 H395 V445 H430"/>
-  <path class="wire" d="M525 350 H640 V465 H680"/>
-  <text x="615" y="416" class="small">1/3 VCC</text>
+  <!-- Threshold comparator: + = THRESHOLD pin, − = 2/3 VCC -->
+  <path class="wire" d="M500 170 V275 H560"/>
+  <path class="block" d="M560 255 L560 335 L680 295 Z"/>
+  <text x="574" y="280" class="sym">+</text>
+  <text x="574" y="321" class="sym">−</text>
+  <text x="620" y="372" class="comp">Threshold</text>
+  <text x="620" y="391" class="small">comparator</text>
 
-  <!-- Latch -->
-  <rect x="810" y="365" width="120" height="135" rx="10" class="block"/>
-  <text x="870" y="395" class="comp">SR latch</text>
-  <text x="870" y="423" class="small">Stores</text>
-  <text x="870" y="442" class="small">the state</text>
-  <text x="870" y="470" class="small">SET / RESET</text>
-  <path class="wire" d="M930 430 H950 V405 H970"/>
-  <path class="wire" d="M970 245 H945 V365 H900 V365"/>
-  <text x="922" y="350" class="small">RESET</text>
+  <!-- Trigger comparator: + = 1/3 VCC, − = TRIGGER pin -->
+  <path class="wire" d="M500 730 V485 H560"/>
+  <path class="block" d="M560 425 L560 505 L680 465 Z"/>
+  <text x="574" y="450" class="sym">+</text>
+  <text x="574" y="491" class="sym">−</text>
+  <text x="620" y="532" class="comp">Trigger</text>
+  <text x="620" y="551" class="small">comparator</text>
 
-  <!-- Output driver and discharge transistor -->
-  <rect x="790" y="590" width="150" height="80" rx="10" class="block"/>
-  <text x="865" y="620" class="comp">Output driver</text>
-  <text x="865" y="642" class="small">pushes / pulls</text>
-  <path class="wire" d="M870 500 V555 H865 V590"/>
-  <path class="wire" d="M940 630 H990 V405 H970"/>
-  <rect x="790" y="700" width="150" height="80" rx="10" class="block"/>
-  <text x="865" y="730" class="comp">Discharge</text>
-  <text x="865" y="751" class="small">transistor</text>
-  <path class="wire" d="M900 500 H950 V740 H940"/>
-  <path class="wire" d="M940 740 H990 V565 H970"/>
-  <path class="wire" d="M865 780 V810 H525 V720"/>
-  <text x="610" y="802" class="small">switches timing capacitor toward GND</text>
+  <!-- Comparator outputs to the latch -->
+  <path class="wire" d="M680 295 H700 V425 H740"/>
+  <path class="wire" d="M680 465 H715 V495 H740"/>
 
-  <!-- External note cards -->
-  <rect x="55" y="585" width="275" height="125" rx="12" class="note"/>
-  <circle cx="80" cy="610" r="15" class="num"/><text x="80" y="610" class="numtext">1</text>
-  <text x="105" y="615" class="notehead">Resistor divider</text>
-  <text x="75" y="643" class="notetext">Makes two reference levels:</text>
-  <text x="75" y="665" class="notetext">about 1/3 and 2/3 of VCC.</text>
-  <text x="75" y="687" class="notetext">These are the timer's checkpoints.</text>
-  <path class="signal" d="M330 630 H350 V185 H430"/>
+  <!-- SR latch -->
+  <rect x="740" y="395" width="140" height="130" rx="10" class="block"/>
+  <text x="752" y="430" class="small" style="text-anchor:start;font-weight:700">R</text>
+  <text x="752" y="500" class="small" style="text-anchor:start;font-weight:700">S</text>
+  <text x="820" y="453" class="comp">SR latch</text>
+  <text x="820" y="473" class="small">Stores the state</text>
+  <!-- Active-low RESET input with bubble -->
+  <path class="wire" d="M810 170 V384"/>
+  <circle cx="810" cy="389" r="5" class="block" style="stroke-width:2"/>
+  <text x="810" y="416" class="small" style="font-size:11px">RESET</text>
 
-  <rect x="55" y="735" width="275" height="125" rx="12" class="note"/>
-  <circle cx="80" cy="760" r="15" class="num"/><text x="80" y="760" class="numtext">2</text>
-  <text x="105" y="765" class="notehead">Comparators</text>
-  <text x="75" y="793" class="notetext">Compare input voltages with</text>
-  <text x="75" y="815" class="notetext">the reference levels, then tell</text>
-  <text x="75" y="837" class="notetext">the latch when to change state.</text>
-  <path class="signal" d="M330 790 H350 V545 H715 V514"/>
+  <!-- Latch output (Q-bar) -->
+  <path class="wire" d="M880 460 H930 M930 330 V610 H995"/>
+  <circle cx="930" cy="460" r="5" class="dot"/>
+  <text x="888" y="453" class="small" style="text-anchor:start;font-weight:700">Q</text>
+  <path d="M888 441 H898" stroke="#475569" stroke-width="1.6"/>
 
-  <rect x="1120" y="115" width="325" height="130" rx="12" class="note"/>
-  <circle cx="1145" cy="140" r="15" class="num"/><text x="1145" y="140" class="numtext">3</text>
-  <text x="1170" y="145" class="notehead">SR latch</text>
-  <text x="1140" y="173" class="notetext">A tiny memory: it remembers</text>
-  <text x="1140" y="195" class="notetext">whether the output should be</text>
-  <text x="1140" y="217" class="notetext">HIGH or LOW between checks.</text>
-  <path class="signal" d="M1120 205 H1095 V350 H870 V365"/>
+  <!-- Output driver (inverting buffer) -->
+  <path class="wire" d="M930 330 H960"/>
+  <path class="block" d="M960 300 L960 360 L1030 330 Z"/>
+  <circle cx="1036" cy="330" r="6" class="block" style="stroke-width:2"/>
+  <path class="wire" d="M1042 330 H1200"/>
+  <text x="1030" y="392" class="comp">Output driver</text>
+  <text x="1030" y="411" class="small">pushes / pulls</text>
 
-  <rect x="1120" y="285" width="325" height="130" rx="12" class="note"/>
-  <circle cx="1145" cy="310" r="15" class="num"/><text x="1145" y="310" class="numtext">4</text>
-  <text x="1170" y="315" class="notehead">Output driver</text>
-  <text x="1140" y="343" class="notetext">Provides the OUT signal (pin 3)</text>
-  <text x="1140" y="365" class="notetext">to control a load or signal the</text>
-  <text x="1140" y="387" class="notetext">next part of a circuit.</text>
-  <path class="signal" d="M1120 355 H1085 V630 H940"/>
+  <!-- Discharge transistor (NPN) -->
+  <circle cx="1010" cy="610" r="36" class="block"/>
+  <path class="wire" d="M995 592 V628"/>
+  <path class="wire" d="M995 602 L1025 580 V540 H1200"/>
+  <path class="wire" d="M995 618 L1025 640 V680"/>
+  <polygon points="1021,637 1010.2,634.7 1015.6,627.5" fill="#64748b"/>
+  <path class="wire" d="M1013 690 H1037 M1017 697 H1033 M1021 704 H1029" style="stroke-width:2"/>
+  <path class="wire" d="M1025 680 V690"/>
+  <text x="1120" y="604" class="comp">Discharge</text>
+  <text x="1120" y="624" class="small">transistor</text>
+  <text x="1046" y="702" class="foot" style="font-size:12px">to pin 1</text>
 
-  <rect x="1120" y="455" width="325" height="145" rx="12" class="note"/>
-  <circle cx="1145" cy="480" r="15" class="num"/><text x="1145" y="480" class="numtext">5</text>
-  <text x="1170" y="485" class="notehead">Discharge transistor</text>
-  <text x="1140" y="513" class="notetext">Acts like an electronic drain.</text>
-  <text x="1140" y="535" class="notetext">When switched on, it pulls pin 7</text>
-  <text x="1140" y="557" class="notetext">toward ground to discharge the</text>
-  <text x="1140" y="579" class="notetext">external timing capacitor.</text>
-  <path class="signal" d="M1120 530 H1080 V740 H940"/>
+  <!-- Numbered badges -->
+  <circle cx="336" cy="250" r="13" class="num"/><text x="336" y="250" class="numtext">1</text>
+  <circle cx="598" cy="247" r="13" class="num"/><text x="598" y="247" class="numtext">2</text>
+  <circle cx="592" cy="415" r="13" class="num"/><text x="592" y="415" class="numtext">2</text>
+  <circle cx="740" cy="395" r="13" class="num"/><text x="740" y="395" class="numtext">3</text>
+  <circle cx="972" cy="285" r="13" class="num"/><text x="972" y="285" class="numtext">4</text>
+  <circle cx="955" cy="572" r="13" class="num"/><text x="955" y="572" class="numtext">5</text>
+  <circle cx="838" cy="232" r="13" class="num"/><text x="838" y="232" class="numtext">6</text>
 
-  <rect x="1120" y="640" width="325" height="135" rx="12" class="note"/>
-  <circle cx="1145" cy="665" r="15" class="num"/><text x="1145" y="665" class="numtext">6</text>
-  <text x="1170" y="670" class="notehead">RESET (pin 4)</text>
-  <text x="1140" y="698" class="notetext">An active-LOW override input.</text>
-  <text x="1140" y="720" class="notetext">Pulling it LOW forces the timer</text>
-  <text x="1140" y="742" class="notetext">output LOW, regardless of timing.</text>
-  <path class="signal" d="M1120 705 H1095 V245 H970"/>
+  <!-- Notes (3 x 2 grid) -->
+  <rect x="60" y="830" width="440" height="118" rx="12" class="note"/>
+  <circle cx="85" cy="857" r="15" class="num"/><text x="85" y="857" class="numtext">1</text>
+  <text x="110" y="863" class="notehead">Resistor divider</text>
+  <text x="80" y="892" class="notetext">Makes two reference levels: about 1/3 and 2/3 of</text>
+  <text x="80" y="914" class="notetext">VCC. These are the timer's checkpoints. Pin 5 taps</text>
+  <text x="80" y="936" class="notetext">the 2/3 level, so a voltage there can shift it.</text>
 
-  <text x="60" y="935" class="foot">Pin numbers shown are for the common 8-pin NE555-style package. Exact internal transistor-level designs vary by manufacturer.</text>
-  <text x="60" y="958" class="foot">Conceptual diagram based on the functional architecture described in the Texas Instruments 555 timer datasheet.</text>
-  <text x="60" y="1000" class="foot">Learning note: timing resistors and capacitors are usually external to the IC; they are not shown as internal components here.</text>
+  <rect x="530" y="830" width="440" height="118" rx="12" class="note"/>
+  <circle cx="555" cy="857" r="15" class="num"/><text x="555" y="857" class="numtext">2</text>
+  <text x="580" y="863" class="notehead">Comparators</text>
+  <text x="550" y="892" class="notetext">Compare pins 6 and 2 with the reference levels.</text>
+  <text x="550" y="914" class="notetext">Each output goes HIGH when its input crosses its</text>
+  <text x="550" y="936" class="notetext">level, telling the latch to change state.</text>
+
+  <rect x="1000" y="830" width="440" height="118" rx="12" class="note"/>
+  <circle cx="1025" cy="857" r="15" class="num"/><text x="1025" y="857" class="numtext">3</text>
+  <text x="1050" y="863" class="notehead">SR latch</text>
+  <text x="1020" y="892" class="notetext">A tiny memory: the trigger comparator sets it, the</text>
+  <text x="1020" y="914" class="notetext">threshold comparator resets it. It remembers if the</text>
+  <text x="1020" y="936" class="notetext">output should be HIGH or LOW between checks.</text>
+
+  <rect x="60" y="964" width="440" height="118" rx="12" class="note"/>
+  <circle cx="85" cy="991" r="15" class="num"/><text x="85" y="991" class="numtext">4</text>
+  <text x="110" y="997" class="notehead">Output driver</text>
+  <text x="80" y="1026" class="notetext">Provides the OUT signal (pin 3) to control a load</text>
+  <text x="80" y="1048" class="notetext">or signal the next part of a circuit. It can both</text>
+  <text x="80" y="1070" class="notetext">source and sink current (push and pull).</text>
+
+  <rect x="530" y="964" width="440" height="118" rx="12" class="note"/>
+  <circle cx="555" cy="991" r="15" class="num"/><text x="555" y="991" class="numtext">5</text>
+  <text x="580" y="997" class="notehead">Discharge transistor</text>
+  <text x="550" y="1026" class="notetext">Acts like an electronic drain. When switched on, it</text>
+  <text x="550" y="1048" class="notetext">pulls pin 7 toward ground to discharge the external</text>
+  <text x="550" y="1070" class="notetext">timing capacitor. It is on whenever OUT is LOW.</text>
+
+  <rect x="1000" y="964" width="440" height="118" rx="12" class="note"/>
+  <circle cx="1025" cy="991" r="15" class="num"/><text x="1025" y="991" class="numtext">6</text>
+  <text x="1050" y="997" class="notehead">RESET (pin 4)</text>
+  <text x="1020" y="1026" class="notetext">An active-LOW override input. Pulling it LOW forces</text>
+  <text x="1020" y="1048" class="notetext">the output LOW, regardless of timing. Tie it to VCC</text>
+  <text x="1020" y="1070" class="notetext">when you do not need it.</text>
+
+  <text x="60" y="1108" class="foot">Pin numbers shown are for the common 8-pin NE555-style package. Exact internal transistor-level designs vary by manufacturer. Ground symbols inside the chip all connect to pin 1.</text>
+  <text x="60" y="1128" class="foot">Conceptual diagram based on the functional architecture described in the Texas Instruments 555 timer datasheet.</text>
+  <text x="60" y="1148" class="foot">Learning note: timing resistors and capacitors are usually external to the IC; they are not shown as internal components here.</text>
 </svg>
