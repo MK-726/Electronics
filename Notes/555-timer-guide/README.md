@@ -1,4 +1,3 @@
-::: {align="center"}
 # The 555 Timer IC
 
 ### A beginner-friendly guide to the tiny chip that creates delays and pulses
@@ -342,6 +341,7 @@ values determine the approximate frequency and duty cycle.
                                       when it is LOW rather than HIGH.
   -----------------------------------------------------------------------
 
+
 ## Further reading
 
 -   [Texas Instruments --- NA555, NE555, SA555, SE555 datasheet
@@ -354,8 +354,6 @@ values determine the approximate frequency and duty cycle.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Learning tip:** Build a simple LED flasher, then change one resistor
 or capacitor value at a time. Watching the timing change is one of the
 easiest ways to understand the 555.
-:::
