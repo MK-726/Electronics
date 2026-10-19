@@ -4,7 +4,7 @@
 
 > ⚠️ **Heat warning:** Resistors that dissipate more power than their rating **overheat and can catch fire**. Always check the power before you build (see [section 8](#8-resistors-in-action)).
 
-*Related guides: [Resistance & Ohm's Law](resistance-ohms-law.md) · [Electrical Power & Watts](power-watts.md) · [LED Basics](led-basics.md) · [Series & Parallel Circuits](series-parallel-circuits.md)*
+*Related guides: [Resistance & Ohm's Law](resistance-ohms-law.mdhttps://github.com/MK-726/Electronics/tree/main/Notes/Basic-Electricity/Resistance-and-Ohms-law-guide) · [Electrical Power & Watts](power-watts.md) · [LED Basics](led-basics.md) · [Series & Parallel Circuits](series-parallel-circuits.md)*
 
 ---
 
