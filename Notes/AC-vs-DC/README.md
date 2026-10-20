@@ -4,7 +4,7 @@
 
 > ⚠️ **Safety first:** Both AC and DC can seriously injure or kill. Mains electricity is especially dangerous. Never copy the high-voltage demonstrations you may see online, and only work on mains wiring if you are qualified (see [section 9](#9-safety)).
 
-*Related guides: [Amps & Electric Current](amps-electric-current.md) · [Volts & Voltage](volts-voltage.md) · [Electrical Power & Watts](power-watts.md) · [Diodes](diodes.md) · [Capacitors](capacitors.md)*
+*Related guides: [Amps & Electric Current](https://github.com/MK-726/Electronics/tree/main/Notes/Basic-Electricity/Amps-and-Electric-Current-guide) · [Volts & Voltage](https://github.com/MK-726/Electronics/tree/main/Notes/Basic-Electricity/Voltage-and-Volts-guide) · [Electrical Power & Watts](https://github.com/MK-726/Electronics/tree/main/Notes/Basic-Electricity/Electrical-Power-and-Watts-guide) · [Diodes](https://github.com/MK-726/Electronics/tree/main/Notes/Components/Diodes) · [Capacitors](https://github.com/MK-726/Electronics/tree/main/Notes/Components/Capacitors)*
 
 ---
 
