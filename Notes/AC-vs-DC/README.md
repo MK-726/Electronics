@@ -272,7 +272,7 @@ flowchart LR
     F["DC from solar panels or a battery"] --> G["Inverter"] --> H["AC for the home or grid"]
 ```
 
-**How rectification works:** diodes let current flow one way only. A single diode (half-wave) passes only the positive half of the AC wave, giving rough, pulsating DC. Four diodes in a bridge (full-wave) pass both halves by flipping the negative one, which is smoother. A capacitor then fills the gaps between the peaks. A full-wave rectifier on 60 Hz mains pulses 120 times per second before smoothing. See the [Diodes guide](diodes.md) and the [Capacitors guide](capacitors.md) for the details.
+**How rectification works:** diodes let current flow one way only. A single diode (half-wave) passes only the positive half of the AC wave, giving rough, pulsating DC. Four diodes in a bridge (full-wave) pass both halves by flipping the negative one, which is smoother. A capacitor then fills the gaps between the peaks. A full-wave rectifier on 60 Hz mains pulses 120 times per second before smoothing. See the [Diodes guide](https://github.com/MK-726/Electronics/tree/main/Notes/Components/Diodes) and the [Capacitors guide](https://github.com/MK-726/Electronics/tree/main/Notes/Components/Capacitors) for the details.
 
 ### 7.3 Motors: AC or DC?
 
@@ -301,7 +301,7 @@ A motor runs on either type. What mostly decides how long it lasts is whether it
 | **AC at mains frequency is especially effective** | 50 and 60 Hz AC is considered the most hazardous frequency range: it triggers strong involuntary muscle contractions and can disrupt the heart. |
 | **DC is not harmless** | DC can also lock muscles so a person cannot let go, and high-voltage DC can be as dangerous as AC or worse. |
 | **Danger is not just about AC vs DC** | Always judge the **voltage and current** involved, not the label. |
-| **Stored energy** | Capacitors can hold a dangerous charge, even when disconnected. See the [Capacitors guide](capacitors.md). |
+| **Stored energy** | Capacitors can hold a dangerous charge, even when disconnected. See the [Capacitors guide](https://github.com/MK-726/Electronics/tree/main/Notes/Components/Capacitors). |
 | **Do not copy demonstrations** | Online stunts with mains voltage are performed by experienced people and still go wrong. |
 | **Get qualified help** | Only qualified, competent people should do mains electrical work. |
 
