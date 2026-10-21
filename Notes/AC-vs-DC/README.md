@@ -65,7 +65,7 @@ flowchart TD
 
 ![Reversing a DC battery reverses a motor; AC reverses itself every half-cycle](assets/ac-dc-circuits.svg)
 
-**DC does not have to be perfectly flat.** What matters is the **direction**, not whether the size changes. A battery's voltage droops, and the output of a rectifier (see [section 7](#7-converting-between-ac-and-dc)) pulses, but both are still DC because the current never reverses.
+**DC does not have to be perfectly flat.** What matters is the **direction**, not whether the size changes. A battery's voltage drops, and the output of a rectifier (see [section 7](#7-converting-between-ac-and-dc)) pulses, but both are still DC because the current never reverses.
 
 **Common DC sources and uses**
 
