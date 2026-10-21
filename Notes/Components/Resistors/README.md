@@ -116,11 +116,11 @@ For **high power and high heat**. The value and power rating are **printed on th
 | **Aluminium housing** | A ceramic core with a nichrome coil between two connectors, insulated, inside a **metal housing with ridges** (more surface area to shed heat) and resin end caps. **Holes in the casing** let you mount it to a surface. | 10 W, 33 Ω |
 
 ### 4.3 Surface-mount (SMD) resistors
-
+ 
 Used in **compact circuit boards**, soldered directly onto metal pads with a soldering iron or solder paste. Some are so small they need a **specialist machine** (or a microscope to see).
-
-- Construction: a **ceramic body** with an **electrode on each end**, joined by a thin **resistive layer** covered by an **insulating protective coat**.
-- A **laser-cut groove** in the resistive layer reduces the area electrons can flow through, so the resistance increases.
+ 
+- Construction: a **ceramic (alumina) body** with a solderable **end termination** at each end (wrapping around the ends), joined by a thin **resistive film** on the top face and covered by a **protective coating**. The number code is printed on top of the coating.
+- A **laser-cut groove** in the resistive film reduces the area electrons can flow through, so the resistance increases.
 - **Tight tolerance** (accurate), but a **very low power rating**.
 
 ---
